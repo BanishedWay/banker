@@ -20,7 +20,9 @@ extern int Max[M][N];              //进程最大资源需求量
 extern int Allocation[M][N];       //当前系统进程已有资源
 extern int Need[M][N];             //进程仍需要的资源
 extern bool Finish[M];             //进程可否拥有足够资源完成运行
+extern int Work[M][N];
+
 void Print();                      //输出系统进程信息
-void SafePrint(int i, int work[]); //输出安全性信息
+void SafePrint();                  //输出安全性信息
 bool isSafe();                     //安全性检查
 #endif                             //BANKER_BANKER_H
