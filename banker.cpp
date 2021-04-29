@@ -11,7 +11,7 @@
 using namespace std;
 
 int Available[N] = {3, 3, 2};
-int Request[M] = {0};
+int Request[N] = {0};
 int Max[M][N] = {{7, 5, 3},
                  {3, 2, 2},
                  {9, 0, 2},

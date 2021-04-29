@@ -15,7 +15,7 @@
 #define N 3 //资源种类
 
 extern int Available[N];           //系统剩余资源
-extern int Request[M];             //进程请求资源
+extern int Request[N];             //进程请求资源
 extern int Max[M][N];              //进程最大资源需求量
 extern int Allocation[M][N];       //当前系统进程已有资源
 extern int Need[M][N];             //进程仍需要的资源
