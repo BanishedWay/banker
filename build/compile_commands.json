@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/Users/15573/Documents/vscode/cmake/banker/build",
+  "command": "C:\\TDM-GCC-64\\bin\\x86_64-w64-mingw32-g++.exe    -Wall -fexec-charset=GBK -g -o CMakeFiles\\banker.dir\\main.cpp.obj -c C:\\Users\\15573\\Documents\\vscode\\cmake\\banker\\main.cpp",
+  "file": "C:/Users/15573/Documents/vscode/cmake/banker/main.cpp"
+},
+{
+  "directory": "C:/Users/15573/Documents/vscode/cmake/banker/build",
+  "command": "C:\\TDM-GCC-64\\bin\\x86_64-w64-mingw32-g++.exe    -Wall -fexec-charset=GBK -g -o CMakeFiles\\banker.dir\\banker.cpp.obj -c C:\\Users\\15573\\Documents\\vscode\\cmake\\banker\\banker.cpp",
+  "file": "C:/Users/15573/Documents/vscode/cmake/banker/banker.cpp"
+}
+]

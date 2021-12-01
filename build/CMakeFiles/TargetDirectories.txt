@@ -1,0 +1,3 @@
+C:/Users/15573/Documents/vscode/cmake/banker/build/CMakeFiles/banker.dir
+C:/Users/15573/Documents/vscode/cmake/banker/build/CMakeFiles/edit_cache.dir
+C:/Users/15573/Documents/vscode/cmake/banker/build/CMakeFiles/rebuild_cache.dir
